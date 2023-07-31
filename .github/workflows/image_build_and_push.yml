@@ -3,8 +3,8 @@ name: Build and push image
 on: 
   workflow_dispatch:
   push:
-    branches:
-      - "**"
+    tags:
+      - "v*.*.*"
   pull_request:
     branches:
       - "main"
