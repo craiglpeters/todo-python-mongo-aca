@@ -14,7 +14,7 @@
         "vscode": {
             "extensions": [
                 "GitHub.vscode-github-actions",
-                "ms-azuretools.azure-dev",
+            //    "ms-azuretools.azure-dev",
                 "ms-azuretools.vscode-azurefunctions",
                 "ms-azuretools.vscode-bicep",
                 "ms-azuretools.vscode-docker",
